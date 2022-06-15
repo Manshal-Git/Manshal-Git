@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **out of the box ideas !**
 
-- 📝 I regularly write programming journal on [myblog.com]([myblog.com](https://knowmob1.blogspot.com/))
+- 📝 I regularly write programming journal on [myblog]([myblog.com](https://knowmob1.blogspot.com/))
 
 - ⚡ Fun fact **Programming Teach us to Learn from Errors !**
 
