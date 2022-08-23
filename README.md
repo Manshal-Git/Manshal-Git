@@ -12,8 +12,6 @@
 
 - 👯 I’m looking to collaborate on **out of the box ideas !**
 
-- 📝 I regularly write programming journal on [myblog](https://knowmob1.blogspot.com/)
-
 - ⚡ Fun fact **Programming Teach us to Learn from Errors !**
 
  <h3 align="left">Find me also on:</h3>
