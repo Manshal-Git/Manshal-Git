@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Github Browser](https://github.com/Manshal-Git/github-browser)
 
-- 🌱 I’m currently learning **MVVM based App Development**
+- 🌱 I’m currently learning **Jetpack Compose**
 
 - 👯 I’m looking to collaborate on **out of the box ideas !**
 
