@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manshal-git&label=Profile%20views&color=0e75b6&style=flat" alt="manshal-git" /> </p>
 
-- 🔭 I’m currently working on [Github Browser](https://github.com/Manshal-Git/github-browser)
-
 - 🌱 I’m currently learning **Jetpack Compose**
 
 - 👯 I’m looking to collaborate on **out of the box ideas !**
